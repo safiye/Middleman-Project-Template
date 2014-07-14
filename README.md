@@ -1,2 +1,2 @@
-# Middleman Template For Our Project
+# Middleman Template
 Middleman Project Skeleton
